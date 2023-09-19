@@ -7,9 +7,9 @@ Details: This notebook has a simple jump game simulated and learned by the compu
 
 ![](https://github.com/SaratChandraV/Deep-Reinforcement-Learning/blob/main/game_sample.gif)
 
-Reward = 1 if correct action else 0
-Termination = if any incorrect action
-Max length of Episode = 200 steps
+1. Reward = 1 if correct action else 0
+2. Termination = if any incorrect action
+3. Max length of Episode = 200 steps
 
 Note: Please change the code to CUDA wherever MPS (MacBook GPU - Metal) has been used.
 
